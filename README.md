@@ -1,6 +1,6 @@
 **Required Assignment 17.1: Comparing Classifiers**
 
-Jupyter Note Book link :
+Jupyter Note Book link : https://github.com/georgekjolly/BerkelyAIandML-PA-3/blob/main/prompt_III.ipynb
 
 **Introduction**
 
